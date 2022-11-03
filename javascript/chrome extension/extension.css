@@ -1,0 +1,61 @@
+body{
+    min-width: 400px;
+}
+
+input{
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    background: linear-gradient(90deg,#ff94c8a6,#feeeee);
+    border: none;
+}
+
+button{
+    font-weight: bold;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 18px;
+    margin-top: 10px;
+    background: linear-gradient(90deg,#0162c8,#55e7fc);
+}
+
+#delete{
+    font-weight: bold;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 18px;
+    margin-top: 10px;
+    background: linear-gradient(90deg,#c80101,#ec99a0);
+}
+
+#save-tab{
+    font-weight: bold;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 18px;
+    margin-top: 10px;
+    background: linear-gradient(90deg,#0b711abf,#aefd68);
+}
+
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    margin-bottom: 10px;
+    list-style-type: disc;
+    margin-left: 10px;
+}
+
+a{
+        font-size: 15px;
+        color: black;
+}
